@@ -28,18 +28,8 @@ a:hover{color: #ffcd81;text-decoration:none;}
 
 /* 右侧提示/20181101修改 */
 #sidetip{
-	position: fixed;
-	right: 0;
-	top: 40%;
-	z-index: 999;
-	cursor: pointer;
 }
 #sidetip_right{
-	position: fixed;
-	right: 0;
-	top: 40.2%;
-	z-index: 998;
-	cursor: pointer;
 }
 
 
